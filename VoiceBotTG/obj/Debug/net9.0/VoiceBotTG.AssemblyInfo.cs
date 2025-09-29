@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VoiceBotTG")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fce6895ed23a3943514f685e9dfc5301276e36be")]
 [assembly: System.Reflection.AssemblyProductAttribute("VoiceBotTG")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VoiceBotTG")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

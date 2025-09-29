@@ -51,13 +51,13 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "dependencies": {
-            "Google.Cloud.Speech.V1": {
-              "target": "Package",
-              "version": "[3.8.0, )"
-            },
             "Google.Cloud.TextToSpeech.V1": {
               "target": "Package",
               "version": "[3.15.0, )"
+            },
+            "Microsoft.CognitiveServices.Speech": {
+              "target": "Package",
+              "version": "[1.46.0, )"
             },
             "Telegram.Bot": {
               "target": "Package",
